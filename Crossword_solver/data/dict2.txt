@@ -1,0 +1,14 @@
+ant
+big
+bus
+car
+has
+book
+buys
+hold
+lane
+year
+ginger
+search
+symbol
+syntax
