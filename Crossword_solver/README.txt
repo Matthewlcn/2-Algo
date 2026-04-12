@@ -77,7 +77,7 @@ Exemples de tests :
    Cas avec solution
 
 2. grid2.txt + dict2.txt
-   Cas sans solution
+   Cas avec solution comme dans l'énoncé 
 
 3. grid3.txt + dict3.txt
    Cas un peu plus grand
